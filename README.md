@@ -106,26 +106,4 @@ OpenCV `cv2.waitKey()` tidak memiliki pendeteksi event *key-up* (saat tombol dil
 
 ---
 
-## Spesifikasi Lingkungan Pengujian
-
-*(Bagian ini dapat diisi sesuai spesifikasi komputer penguji)*
-
-### 1. Sistem Operasi
-| Komponen | Spesifikasi |
-| :--- | :--- |
-| **Sistem Operasi** | [Contoh: Windows 11 Home 64-bit] |
-| **Versi / Build** | [Contoh: Version 23H2 / Build 22631] |
-
-### 2. Perangkat Keras (Hardware)
-| Komponen | Spesifikasi |
-| :--- | :--- |
-| **Perangkat / Laptop** | [Contoh: ASUS TUF Gaming F15] |
-| **Processor** | [Contoh: Intel Core i7-12700H] |
-| **RAM** | [Contoh: 16 GB DDR4] |
-| **Tipe Webcam** | [Contoh: Integrated Webcam 720p HD] |
-
-### 3. Software & Library
-| Software | Versi |
-| :--- | :--- |
-| **Python** | [Contoh: 3.12.3] |
 | **OpenCV** | [Contoh: 4.13.0] |

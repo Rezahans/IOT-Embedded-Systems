@@ -103,7 +103,3 @@ OpenCV `cv2.waitKey()` tidak memiliki pendeteksi event *key-up* (saat tombol dil
 - Program mencatat waktu terakhir tombol `SPASI` diterima.
 - Jika jeda waktu belum melewati batas `BURST_TIMEOUT` (0.35 detik), status burst dianggap aktif dan frame disimpan berkala sesuai `BURST_INTERVAL` (0.15 detik).
 - Saat tombol dilepas, sinyal berhenti, batas waktu terlampaui, dan burst capture otomatis diselesaikan.
-
----
-
-| **OpenCV** | [Contoh: 4.13.0] |

@@ -35,7 +35,7 @@ Pastikan komputer sudah terpasang **Python 3.8+**.
 
 1. **Clone atau download repositori ini**:
    ```bash
-   git clone <URL_REPOSITORY_ANDA>
+   git clone [(https://github.com/Rezahans/IOT-Embedded-Systems.git)
    cd "IOT Embedded Systems"
    ```
 
